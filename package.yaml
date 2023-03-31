@@ -25,6 +25,9 @@ dependencies:
 - parsec
 - Cabal
 - mtl
+- haskeline
+- exceptions
+- directory
 
 ghc-options:
 - -Wall
